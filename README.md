@@ -12,11 +12,11 @@ Organizers: Heeyoun Hwang (KBSI), Peter Horvatovich (UG)
 | Time | Speaker | Talk |
 |:-----|:--------|:-----|
 | **10:30–10:31** | **Heeyoun Hwang / Peter Horvatovich** | **Welcome and session introduction** *(1 slide)* |
-| 10:31–10:51 | Gong Zhang *(Jinan University)* | The HPP Portal and resources for protein function characterisation |
-| 10:51–11:06 | Ju-Yeon Lee *(KBSI)* or Yuan Li *(TBC)* | Glycopeptide identification (IQ-GPA) |
-| 11:06–11:21 | Peter Horvatovich *(University of Groningen)* | GlycoGenius: Automated and High-Throughput Analysis of Glycomics Mass Spectrometry Data |
-| 11:21–11:31 | Arthur Declercq *(VIB-UGent, CompOmics)* | Mumble and MS²Rescore: localizing mass shifts using modification-aware peptide property predictions |
-| 11:31–11:41 | Pathmanaban Ramasamy *(VIB-UGent, CompOmics)* | Scop3PTM: integrating proteomics evidence, structural biology and residue-level biophysical properties for mechanistic interpretation of post-translational modifications |
+| 10:31–10:41 | Arthur Declercq *(VIB-UGent, CompOmics)* | Mumble and MS²Rescore: localizing mass shifts using modification-aware peptide property predictions |
+| 10:41–10:51 | Pathmanaban Ramasamy *(VIB-UGent, CompOmics)* | Scop3PTM: integrating proteomics evidence, structural biology and residue-level biophysical properties for mechanistic interpretation of post-translational modifications |
+| 10:51–11:06 | Peter Horvatovich *(University of Groningen)* | GlycoGenius: Automated and High-Throughput Analysis of Glycomics Mass Spectrometry Data |
+| 11:06–11:21 | Ju-Yeon Lee *(KBSI)* or Yuan Li *(TBC)* | Glycopeptide identification (IQ-GPA) |
+| 11:21–11:41 | Gong Zhang *(Jinan University)* | The HPP Portal and resources for protein function characterisation |
 | 11:41–12:00 | All speakers; moderated by Heeyoun Hwang and Peter Horvatovich | Panel discussion: how completely can we characterise protein function? |
 
 ## Abstracts
