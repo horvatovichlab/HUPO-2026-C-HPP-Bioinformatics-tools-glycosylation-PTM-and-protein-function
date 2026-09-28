@@ -1,11 +1,11 @@
 # HUPO-2026-C-HPP-Bioinformatics-tools-glycosylation-PTM-and-protein-function
+
 ## HUPO Bioinformatics HUB, September 30, 2026
 
-*Time*: **10:30-12:00**
-*Location*: **room 330**
-Organizers: Heeyoun Hwang (KBSI), Peter Horvatovich (UG)
-
-## Title: C-HPP Bioinformatics tools, glycosylation, PTM and protein function
+- **Time:** 10:30–12:00
+- **Location:** room 330
+- **Organizers:** Heeyoun Hwang (KBSI), Peter Horvatovich (UG)
+- **Title:** C-HPP Bioinformatics tools, glycosylation, PTM and protein function
 
 ## Program
 
